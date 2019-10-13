@@ -7,12 +7,25 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Project Name: Calorie counter
+This app help users to know their food and keep track of amount of calories they in-take on a daily basis. Once the user has logged in, he/she can search for any processesd food product and access extensive data on product ingredients, nutrition facts, allergens, additives, and search/filter by product or brand. They can save this data and access it from the database anytime they want.
+
+Idea for the project: While searching for different API's online, i found this Open Food Facts API (which provides access to data and information on food products from around the world) and Open Food Facts database which is under the Open database Licence.  
+
 ### Features
-Include Features here
+User Login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+Search: Users will be able to search for food products containing given text.
+Save and Retrieve data: Users will be able to save the product's data which will appear in the user’s profile.
+
 ### Technologies
-Include Technologies here
+Java
+Springboot
+Mongo DB
+MAMP
+Thymeleaf Templates
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Working with Mongo DB
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/AJ2xhFRY/capstone-project
