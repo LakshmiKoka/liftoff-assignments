@@ -18,11 +18,11 @@ Search: Users will be able to search for food products containing given text.
 Save and Retrieve data: Users will be able to save the product's data which will appear in the user’s profile.
 
 ### Technologies
-1.Java
-1.Springboot
-1.Mongo DB
-1.MAMP
-1.Thymeleaf Templates
+1. Java
+1. Springboot
+1. Mongo DB
+1. MAMP
+1. Thymeleaf Templates
 
 ### What I'll Have to Learn
 Working with Mongo DB
