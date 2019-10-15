@@ -13,9 +13,9 @@ This app help users to know their food and keep track of amount of calories they
 Idea for the project: While searching for different API's online, i found this Open Food Facts API (which provides access to data and information on food products from around the world) and Open Food Facts database which is under the Open database Licence.  
 
 ### Features
-User Login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
-Search: Users will be able to search for food products containing given text.
-Save and Retrieve data: Users will be able to save the product's data which will appear in the user’s profile.
+1. User Login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+1. Search: Users will be able to search for food products containing given text.
+1. Save and Retrieve data: Users will be able to save the product's data which will appear in the user’s profile.
 
 ### Technologies
 1. Java
