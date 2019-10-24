@@ -20,12 +20,11 @@ Idea for the project: While searching for different API's online, i found this O
 ### Technologies
 1. Java
 1. Springboot
-1. Mongo DB
-1. MAMP
+1. MySQL
 1. Thymeleaf Templates
 
 ### What I'll Have to Learn
-Working with Mongo DB
+Working with API, User management and Security.
 
 ### Project Tracker
 https://trello.com/b/AJ2xhFRY/capstone-project
