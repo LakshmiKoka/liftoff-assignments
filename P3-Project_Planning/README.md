@@ -10,8 +10,13 @@ For this assignment, you'll create some initial plans for your project.
 
 Wireframes for the project 'Calorie Counter':
 
-![Calorie Data] (images/Calorie_Data.jpeg)
+![Search](images/Search_page.jpeg)
 
+![Results page](images/Results_page.jpeg)
+
+![Daily Calorie Data](images/Daily_Calorie_Data.jpeg)
+
+![Calorie Data](images/Calorie_Data.jpeg)
 
 
 ### Project Tracker
