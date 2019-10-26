@@ -8,12 +8,18 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+Wireframes for the project 'Calorie Counter'
+
+. https://github.com/LakshmiKoka/Calorie-Counter/blob/master/WhatsApp%20Image%202019-10-26%20at%202.59.48%20PM%20(1).jpeg
+. https://github.com/LakshmiKoka/Calorie-Counter/blob/master/WhatsApp%20Image%202019-10-26%20at%202.59.48%20PM%20(2).jpeg
+. https://github.com/LakshmiKoka/Calorie-Counter/blob/master/WhatsApp%20Image%202019-10-26%20at%202.59.48%20PM.jpeg
+. https://github.com/LakshmiKoka/Calorie-Counter/blob/master/WhatsApp%20Image%202019-10-26%20at%203.01.58%20PM.jpeg
+
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+Include a link to your public Trello board: https://trello.com/b/AJ2xhFRY/capstone-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+Link to the project repository on Github: https://github.com/LakshmiKoka/Calorie-Counter
