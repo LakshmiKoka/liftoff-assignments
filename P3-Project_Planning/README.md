@@ -10,13 +10,8 @@ For this assignment, you'll create some initial plans for your project.
 
 Wireframes for the project 'Calorie Counter':
 
-* (https://github.com/LakshmiKoka/Calorie-Counter/blob/master/WhatsApp%20Image%202019-10-26%20at%203.01.58%20PM.jpeg)
+![Calorie Data] (images/Calorie_Data.jpeg)
 
-* (https://github.com/LakshmiKoka/Calorie-Counter/blob/master/WhatsApp%20Image%202019-10-26%20at%202.59.48%20PM.jpeg)
-
-* (https://github.com/LakshmiKoka/Calorie-Counter/blob/master/WhatsApp%20Image%202019-10-26%20at%202.59.48%20PM%20(1).jpeg)
-
-* (https://github.com/LakshmiKoka/Calorie-Counter/blob/master/WhatsApp%20Image%202019-10-26%20at%202.59.48%20PM%20(2).jpeg)
 
 
 ### Project Tracker
